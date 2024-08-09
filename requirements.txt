@@ -1,0 +1,14 @@
+streamlit==1.25.0
+pandas==1.5.3
+msrest==0.7.1
+tiktoken
+openai==0.28.0
+faiss-cpu
+xlsxwriter==3.1.4
+markdown-pdf
+PyPDF2
+pypdf
+langchain
+langchain-community
+langchain_experimental
+python-docx==0.8.11
